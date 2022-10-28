@@ -32,7 +32,7 @@ Nothing more. Nothing less (hopefully).
 - Install using your favorite plugin manager:
 
 ```vim
-Plug TheSSHGuy/jest.nvim
+Plug SSHari/jest.nvim
 ```
 
 ## Configuration
